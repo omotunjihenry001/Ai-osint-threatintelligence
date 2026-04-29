@@ -47,4 +47,7 @@ Installation
 pip install -r requirements.txt
 streamlit run app.py
 
+
+
 ![Dashboard](screenshots/dashboard.png)
+<img width="1318" height="513" alt="Screenshot 2026-04-29 192759" src="https://github.com/user-attachments/assets/a3b8584e-a0e9-40d6-b49a-421b46c00e9d" />
